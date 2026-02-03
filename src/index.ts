@@ -73,6 +73,8 @@ export {
   waitForever,
 };
 
+export * from "./pg-agent/index.js";
+
 const isMain = isMainModule({
   currentFile: fileURLToPath(import.meta.url),
 });
