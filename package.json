@@ -197,6 +197,8 @@
     "osc-progress": "^0.3.0",
     "pdfjs-dist": "^5.4.530",
     "playwright-core": "1.58.0",
+    "pg": "^8.16.3",
+    "pg-copy-streams": "^7.0.0",
     "proper-lockfile": "^4.1.2",
     "qrcode-terminal": "^0.12.0",
     "sharp": "^0.34.5",
